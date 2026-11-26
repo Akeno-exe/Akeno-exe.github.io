@@ -44,3 +44,4 @@ High School Diploma
 
 - [GitHub](https://github.com/Akeno-exe)
 - [LinkedIn](https://www.linkedin.com/in/amarbayar-davaajav-059535349/)
+- [Email](mailto:davaajavamarbayar@gmail.com)

@@ -4,26 +4,34 @@ Computer Science and Engineering student at Sungkyunkwan University
 
 ## About
 
-I'm a second-year student from Mongolia studying at SKKU's Suwon campus.
-I'm interested in game development and machine learning.
+Second-year Computer Science student at Sungkyunkwan University with hands-on experience building projects in
+C/C++, Python, Lua, and web technologies. Interested in software engineering, game development, and artificial
+intelligence, with a strong motivation to apply programming and problem-solving skills to real-world software projects.
 
 ## Education
 
-**Sungkyunkwan University (SKKU)**  
-Computer Science and Engineering  
-Relevant coursework: Algorithms, System Programming, and Computer Architecture
+Sungkyunkwan University (SKKU) — Suwon, South Korea
+B.S. in Computer Science | Expected graduation: 2029
+11th Secondary School — Ulaanbaatar, Mongolia | High School Diploma
+
+## Technical Skills
+
+Programming: Python, C/C++, Lua
+Web: HTML, CSS
+Tools: Git, GitHub, Visual Studio Code
+Interests: Software Engineering, Game Development, Artificial Intelligence
 
 ## Projects
 
 ### 2D Survival Horror Game — Godot
 
-I'm building a top-down horror game where the player's flashlight affects
-how easily the enemy can detect them. I've implemented battery drain,
-sprinting, and fuse collection.
+I'm building a top-down horror game with puzzles and enemies.
 
 ### Tetris — C and SDL2
 
-I built a playable Tetris game in C using SDL2.
+Developed a playable Tetris game with core game logic and real-time keyboard input handling.
+Applied structured programming to manage gameplay state and interactive controls.
+
 
 ## Contact
 

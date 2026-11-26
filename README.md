@@ -26,12 +26,12 @@ High School Diploma
 
 ### 2D Survival Horror Game — Godot
 
-- I'm building a top-down horror game with puzzles and enemies. The player's
-- flashlight helps them navigate but also makes them easier for enemies to detect.
+- Building a top-down horror game with puzzles and enemies. The player's
+  flashlight helps them navigate but also makes them easier for enemies to detect.
 
 ### Tetris — C and SDL2
 
-- I built a playable Tetris game in C using SDL2, with real-time keyboard
+- Built a playable Tetris game in C using SDL2, with real-time keyboard
   controls and logic for piece movement, collision detection, and line clearing.
 
 ### Python Diary Application — Python, File I/O
@@ -42,4 +42,5 @@ High School Diploma
 
 ## Contact
 
-[My GitHub profile](https://github.com/Akeno-exe)
+- [GitHub](https://github.com/Akeno-exe)
+- [LinkedIn](https://www.linkedin.com/in/amarbayar-davaajav-059535349/)

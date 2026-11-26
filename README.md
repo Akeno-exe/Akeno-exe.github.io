@@ -25,11 +25,6 @@ sprinting, and fuse collection.
 
 I built a playable Tetris game in C using SDL2.
 
-### Educational Video Generator — Python
-
-I built a pipeline that connects AI services to generate scripts, images,
-and narration, then assembles them into educational videos.
-
 ## Contact
 
 [My GitHub profile](https://github.com/Akeno-exe)
